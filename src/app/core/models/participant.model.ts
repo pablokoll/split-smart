@@ -1,5 +1,4 @@
 export interface Participant {
-    name: string;
-    amount: number;
-  }
-  
+	name: string;
+	amount: number;
+}
